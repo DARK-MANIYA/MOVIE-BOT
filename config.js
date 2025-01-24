@@ -11,8 +11,8 @@ ANTI_DELETE: process.env.ANTI_DELETE === undefined ? 'true' : process.env.ANTI_D
 CHAT_BOT: process.env.CHAT_BOT === undefined ? 'true' : process.env.CHAT_BOT, 
 DELETE_MSG_SENDTO: '94743218422',
 SUDO: '',
-GITHUB_AUTH_TOKEN: '',
-GITHUB_USER_NAME: '',
+GITHUB_AUTH_TOKEN: 'NaGGj2OBZtdCJuceAJJ6k3Oq8xl0xY258oCF',
+GITHUB_USER_NAME: 'NEW-ACCOUNT-2025',
 
 };
 //GITHUB_AUTH_TOKEN: 'ouvnI0SDsmfWA1ilVxSZ0vJGYC5VX54U0e10',
