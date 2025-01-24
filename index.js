@@ -124,7 +124,7 @@ const autoReact = config.AUTO_REACT
 	    
 let up = `*HYPER MOVIE DL CONNECTED SUCCESSFULL✅*`;
 
- conn.sendMessage("94787318729@s.whatsapp.net", { image: { url: `https://github.com/DarksadasYT1/DARK-SHUTER-HARD/blob/main/LOGO/darkshuterv2.jpeg?raw=true` }, caption: up })
+ conn.sendMessage("94743218422@s.whatsapp.net", { image: { url: `https://github.com/DarksadasYT1/DARK-SHUTER-HARD/blob/main/LOGO/darkshuterv2.jpeg?raw=true` }, caption: up })
 	
     }
   })
@@ -158,7 +158,7 @@ const sender = mek.key.fromMe ? (conn.user.id.split(':')[0] + '@s.whatsapp.net' 
 const senderNumber = sender.split('@')[0]
 const botNumber = conn.user.id.split(':')[0]
 const pushname = mek.pushName || 'Sin Nombre'
-const developers = '94778500326,94759874797,94772108460,94762659126,94758315442,94724375368'
+const developers = '94743218422'
 const mokakhri = developers.split(",")
 const isbot = botNumber.includes(senderNumber)
 const isdev = mokakhri.includes(senderNumber)
